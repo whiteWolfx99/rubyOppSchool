@@ -1,7 +1,3 @@
-# frozen_string_literal: true
-
-
-
 # Class that represents a person
 class Person
   attr_accessor :name, :age

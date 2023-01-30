@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require './person'
 
 # Class that represents a student with a classroom

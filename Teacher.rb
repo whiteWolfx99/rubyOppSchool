@@ -1,5 +1,4 @@
-require './person'
-
+require_relative 'person'
 
 # Class that represents a teacher with a specialization
 class Teacher < Person

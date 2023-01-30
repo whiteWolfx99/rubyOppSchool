@@ -1,5 +1,6 @@
 # frozen_string_literal: true
-require './person.rb'
+
+require './person'
 
 
 # Class that represents a teacher with a specialization

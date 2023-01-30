@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 class Person
-  attr_reader :id, :name, :age
   attr_accessor :name, :age
+  attr_reader :id
 
-  def initialize(name = 'Unknown', age = 0, parent_permission = true)
+  def initialize(age, name = 'Unknown', parent_permission = true)
     @id = rand(1..1000)
     @name = name
     @age = age

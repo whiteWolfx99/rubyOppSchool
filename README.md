@@ -49,14 +49,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [updated upon project completion.]()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
 <!-- GETTING STARTED -->
 ### Getting Started <a name="getting-started"></a>
 
@@ -65,22 +57,6 @@
 In order to run this project you need:
 
 - Ruby inatalled on your machine
-
-<!-- ### Setup
-
-Clone this repository to your desired folder:
-
-
-Example commands:
-
-```
-  cd ENUMERABLE
-  git clone https://github.com/jellywiz/Ruby-OOP-School-Library.git
-``` -->
-
-### Usage
-
-this project is a command line application that takes a morse code and turns it into words.
 
 ### Run
 

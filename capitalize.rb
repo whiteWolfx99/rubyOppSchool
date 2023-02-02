@@ -1,4 +1,4 @@
-require_relative 'nameable'
+require_relative 'decorator'
 
 class CapitalizeDecorator < Decorator
   def correct_name

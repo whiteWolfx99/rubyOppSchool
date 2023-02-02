@@ -82,13 +82,13 @@ Example commands:
 
 this project is a command line application that takes a morse code and turns it into words.
 
-<!-- ### Run
+### Run
 
 Example commands:
 
 ```
   ruby student.rb
-``` -->
+```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -139,5 +139,11 @@ If you like this project and want to support me make cooler projects Give this p
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 hats off to the people writing the documentation for the technologies used in this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 LICENSE <a name="license"></a>
+
+[LICENSE](./LICENSE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

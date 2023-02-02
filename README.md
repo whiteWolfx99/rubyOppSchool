@@ -144,6 +144,6 @@ hats off to the people writing the documentation for the technologies used in th
 
 ## 🙏 LICENSE <a name="license"></a>
 
-./LICENSE
+[LICENSE](./LICENSE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

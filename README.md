@@ -21,9 +21,9 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
 
 
-# 📖 Ruby-OOP-School-Library <a name="about-project"></a>
+# 📖 OOP school library: set up associations <a name="about-project"></a>
 
-**Ruby-OOP-School-Library** Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them.
+**OOP school library: set up associations** Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them.
 
 
 ## 🛠 Built With <a name="built-with"></a>

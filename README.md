@@ -21,9 +21,9 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
 
 
-# 📖 OOP school library: set up associations <a name="about-project"></a>
+# 📖 OOP school library: add basic UI <a name="about-project"></a>
 
-**OOP school library: set up associations** Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them.
+**OOP school library: add basic UI** In this project, you will create a form of UI for your school library app. This way it can be invoked as an executable and not something you use in IRB exclusively.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -63,7 +63,7 @@ In order to run this project you need:
 Example commands:
 
 ```
-  ruby student.rb
+  ruby main.rb
 ```
 
 
